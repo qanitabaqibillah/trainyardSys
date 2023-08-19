@@ -29,9 +29,9 @@ The Train class represents a train in the trainyard. Each train has a unique ide
 
 7. Random Train Generation:
  - During train creation:
-    a. Generate a random number of cars in each train.
-    b. Assign a random quantity of cargo/passengers to each train car.
-    c. Randomly determine whether each car holds cargo or passengers.
+     - Generate a random number of cars in each train.
+     - Assign a random quantity of cargo/passengers to each train car.
+     - Randomly determine whether each car holds cargo or passengers.
 
 8. Test Case Development:
     - Create test cases exclusively for the implemented linked-list structure to ensure its functionality and accuracy. These tests should validate the train car representation using the linked-list approach.
